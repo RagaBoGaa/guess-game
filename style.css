@@ -125,7 +125,7 @@ footer {
 footer span {
   font-size: 2rem;
 }
-@media (max-width: 375px) {
+@media (max-width: 768px) {
   h1 {
     font-size: 3rem;
     top: 50%;
